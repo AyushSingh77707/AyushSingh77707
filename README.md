@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Ayush Singh 👋
 
-<!--
-**AyushSingh77707/AyushSingh77707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS in Computer Science & Data Analytics @ IIT Patna  
+Building backend systems from scratch 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend** — FastAPI, SQLAlchemy, Pydantic  
+**Database** — PostgreSQL, Redis  
+**Auth** — JWT, OAuth2  
+**DevOps** — Docker, Git, Linux  
+**Queue** — Celery  
+
+---
+
+## 🔨 Projects
+
+### [Inventory Management API](https://github.com/AyushSingh77707/inventory-management-api)
+REST API with product/order CRUD, stock tracking, low-stock alerts, and RBAC  
+`FastAPI` `PostgreSQL` `Redis` `Celery` `JWT`
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/ayush-singh-114a5b307/) · [Email](mailto:ayushsingh77707@gmail.com)
+
+---
+
+*Open to backend internships, freelance projects, and collaborations*
