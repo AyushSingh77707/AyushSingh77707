@@ -21,7 +21,10 @@ Building backend systems from scratch 🚀
 REST API with product/order CRUD, stock tracking, low-stock alerts, and RBAC  
 `FastAPI` `PostgreSQL` `Redis` `Celery` `JWT`
 
----
+### [SmartChat API](https://github.com/AyushSingh77707/smart-AI-chat-api)
+REST API with session CRUD, Groq LLM , auto Chat history save, Auto title generate for session
+`FastAPI` `PostgreSQL` `JWT` `GROQ AI`
+
 
 ## 📫 Let's Connect
 
